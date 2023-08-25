@@ -1,6 +1,0 @@
-pip install spotdl 
-
-python -m spotdl [urls]
-spotdl [urls]
-
-spotdl --format mp3 --output /Folder/Subfolder/{title}.mp3 songlink
