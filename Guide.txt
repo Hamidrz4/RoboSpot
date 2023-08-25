@@ -1,6 +1,6 @@
+pip install spotdl 
+
 python -m spotdl [urls]
 spotdl [urls]
 
-(Discord) F:\Programming\PyCharm-Community\Discord\Scripts>spotdl --format mp3 --output /Musics/Spotify/{title}.mp3 https://open.spotify.com/track/5yyqARcQ0blpHTRBwSJK9T?si=f487e4d0116c4ff1
-Processing query: https://open.spotify.com/track/5yyqARcQ0blpHTRBwSJK9T?si=f487e4d0116c4ff1
-Downloaded "Iris - After All": https://music.youtube.com/watch?v=8ZjiRZllWJQ
+spotdl --format mp3 --output /Folder/Subfolder/{title}.mp3 songlink
