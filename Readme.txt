@@ -1,5 +1,3 @@
-
-```markdown
 # SpotDL
 
 SpotDL is a command-line tool for downloading songs from Spotify using various input methods. It utilizes the `spotdl` Python package.
